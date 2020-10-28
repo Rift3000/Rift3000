@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ## I'm a  Developer, Gamer  and Lover of Knowledge!!
 
-- 🔭 I’m currently working on building games with flutter flame
+- 👾 I’m currently working on building games with flutter flame
 - 🌱 I’m currently learning new frameworks
-- 👯 I’m looking to collaborate with other Software Devs 
+- 💪 I’m looking to collaborate with other Software Devs 
 - 🥅 2020 Goals: Complete all every online course on my list.
 - ⚡ Fun fact: I love to fight procrastination 🤣🤣🤣
 
@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rift3000's website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Rift3000 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -62,7 +63,7 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>⭐ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 
@@ -71,10 +72,19 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>💥 GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-sepia-six.vercel.app
+  <img align="left" alt="Rift3000's GitHub Stats" src="https://github-readme-stats-sepia-six.vercel.app
 /api?username=Rift3000&show_icons=true&hide_border=true" />
+
+
+</details>
+
+<details>
+<summary>🌟 Pinned Repositories</summary
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rift3000&repo=Covid-19-Tracker)](https://github.com/Rift3000/Covid-19-Tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rift3000&repo=Flappy-Bird)](https://github.com/Rift3000/Flappy-Bird)
 
 
 </details>
