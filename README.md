@@ -61,14 +61,14 @@ Here are some ideas to get you started:
 
 ---
 
-#### 💥 GitHub Stats
+<details>
+  <summary>💥 GitHub Stats</summary>
 
- <img align="left" alt="Rift3000's GitHub Stats" src="https://github-readme-stats.rift3000.vercel.app
-/api?username=Rift3000&show_icons=true&hide_border=true" />
+  <img align="left" alt="Rift3000's GitHub Stats" src="https://github-readme-stats-sepia-six.vercel.app
+/api?username=Rift3000&show_icons=true&hide_border=true&theme=radical" />
 
+</details>
 
-
-<br />
 <details>
 <summary>🌟 Pinned Repositories</summary
 
