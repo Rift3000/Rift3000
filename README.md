@@ -61,21 +61,12 @@ Here are some ideas to get you started:
 
 ---
 
-
-<details>
-  <summary>⭐ Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
 <details>
   <summary>💥 GitHub Stats</summary>
 
   <img align="left" alt="Rift3000's GitHub Stats" src="https://github-readme-stats-sepia-six.vercel.app
 /api?username=Rift3000&show_icons=true&hide_border=true" />
+
 
 
 </details>
@@ -85,6 +76,8 @@ Here are some ideas to get you started:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rift3000&repo=Covid-19-Tracker)](https://github.com/Rift3000/Covid-19-Tracker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rift3000&repo=Flappy-Bird)](https://github.com/Rift3000/Flappy-Bird)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rift3000&repo=Cool-Calculator)](https://github.com/Rift3000/Cool-Calculator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rift3000&repo=Django-Blog)](https://github.com/Rift3000/Django-Blog)
 
 
 </details>
